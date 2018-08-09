@@ -92,15 +92,21 @@
 
 
 ![Spending per student](https://github.com/aerwemi/Schools-Analysis---Python-/blob/master/fig1.png)
+
 *Spending per student*
+**
+
 
 ![Charter schools are performing better than District schools](https://github.com/aerwemi/Schools-Analysis---Python-/blob/master/fig2.png)
+
 *Charter schools are performing better than District schools*
 
 
 ![Higher spending not resulting improving grades and scores](https://github.com/aerwemi/Schools-Analysis---Python-/blob/master/fig3.png)
+
 *Higher spending not resulting improving grades and scores*
 
 
 ![School Size have a positive impact on scores](https://github.com/aerwemi/Schools-Analysis---Python-/blob/master/fig4.png)
+
 *School Size have a positive impact on scores*
