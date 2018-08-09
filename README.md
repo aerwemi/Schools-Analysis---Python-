@@ -86,3 +86,6 @@
 **Scores by School Type**
 
 * Group schools based on school type (Charter vs. District).
+
+
+![Spending per student](https://github.com/aerwemi/Schools-Analysis---Python-/blob/master/fig1.png)
