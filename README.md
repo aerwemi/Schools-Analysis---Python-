@@ -89,7 +89,6 @@
 
 
 
-**Summary**
 
 *Spending per student*
 ![Spending per student](https://github.com/aerwemi/Schools-Analysis---Python-/blob/master/fig1.png)
